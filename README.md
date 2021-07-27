@@ -1,4 +1,6 @@
 # wallet-hub-selenium
-Test suite xml = testSuite_testng.xml
-Test Class name = ValidateReviewInWalletHub.java
-to run the project give command 'mvn test' from cli.
+ 1. Test suite xml = testSuite_testng.xml
+
+ 2. Test Class name = ValidateReviewInWalletHub.java
+
+ 3. To run the project give command 'mvn test' from cli.
