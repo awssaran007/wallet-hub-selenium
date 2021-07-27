@@ -1,0 +1,6 @@
+envName: "QA"
+wallethubUrl: "https://wallethub.com/profile/test_insurance_company/"
+userEmail: "gitsaran007@yahoo.com"
+password: "Welcome@01"
+policyType: "Health Insurance"
+reviewMessage: "We expect another tester to pick up your code and continue working on it with ease. Assuch, we are interested in the way you code and we want to see your take on implementingefficient, maintainable and readable tests. So, use of any existing wrapper or helperframework/library as a shortcut to achieving the above mentioned goals is discouraged in favorof your own implementation"
